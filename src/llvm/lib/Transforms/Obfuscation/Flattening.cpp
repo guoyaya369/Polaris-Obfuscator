@@ -1,4 +1,3 @@
-```cpp
 #include "llvm/Transforms/Obfuscation/Flattening.h"
 #include "llvm/IR/BasicBlock.h"
 #include "llvm/IR/CFG.h"

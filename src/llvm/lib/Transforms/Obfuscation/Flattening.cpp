@@ -203,4 +203,3 @@ PreservedAnalyses Flattening::run(Module &M, ModuleAnalysisManager &AM) {
   return PreservedAnalyses::none();
 }
 } // namespace polaris
-```
